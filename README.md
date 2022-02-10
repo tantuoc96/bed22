@@ -1,7 +1,7 @@
 <h1>##Api for text utilities</h1>
 
 Resources:
-JDK8, Apache Maven 3.8.1
+Jdk version > 8, Apache Maven 3.8.1, Spring boot > 2.0
 
 
 <p><strong>Api 1: /api/v1/converter/textToJsonValue</strong></p>
