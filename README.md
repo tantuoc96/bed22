@@ -15,4 +15,4 @@ Api 3: /api/v1/converter/markdownTo/{textType}
 Description: markdown to html
 textType: [html]
 
-Postman collection: 
+Postman collection: src/main/resources/bed22.postman_collection.json
